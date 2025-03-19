@@ -1,0 +1,5 @@
+<figury>
+    <circle radius="7.0" />
+    <rectangle width="3.0" height="5.0" />
+    <triangle sideA="5.0" sideB="7.0" sideC="9.0" />
+</figury>

@@ -1,0 +1,3 @@
+circle 7
+rectangle 4 6
+triangle 3 4 5
